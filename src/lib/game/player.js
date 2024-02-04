@@ -11,7 +11,9 @@ class Player extends Unit {
 
     this.target = null;
 
+    // ornfelt
     this.displayID = 24978;
+    //this.displayID = 7550;
     this.mapID = null;
   }
 
